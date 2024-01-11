@@ -1,0 +1,26 @@
+{
+  "name": "cv-template",
+  "version": "1.0.0",
+  "description": "Resume templates written in HTML/SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saqttra/cv-template.git"
+  },
+  "keywords": [
+    "html",
+    "scss"
+  ],
+  "author": "Arturo Olivares (Saqttra)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saqttra/cv-template/issues"
+  },
+  "homepage": "https://github.com/saqttra/cv-template#readme",
+  "devDependencies": {
+    "sass": "^1.69.7"
+  }
+}
